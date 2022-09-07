@@ -26,4 +26,4 @@ Server Side:
 ### `npm run devStart`
 
 Runs the app in the development mode.\
-Open [http://localhost:3001/read](http://localhost:3001/read) to view it in your browser.
+Open [http://localhost:3001/read](http://localhost:3001) to view it in your browser.
